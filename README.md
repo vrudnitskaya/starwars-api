@@ -1,6 +1,6 @@
 # Star Wars Movies Application
 
-Click on the link below to visit the website:
+Click on the link below to visit the website: https://vrudnitskaya.github.io/starwars-api/
 
 The data is received from API https://www.swapi.tech/api/films/ .
 
