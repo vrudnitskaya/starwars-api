@@ -8,6 +8,3 @@ The website shows the information about Star Wars movies such as title, year of 
 
 The data about the characters is received from https://www.swapi.tech/api/people/ .
 
-##Developed by
-
-[Valentina Rudnitskaya](https://valentina-rudnitskaya.glitch.me/)
