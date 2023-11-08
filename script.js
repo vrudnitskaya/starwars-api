@@ -48,8 +48,6 @@ function renderMovies(movies) {
             if (charData != undefined) {
                 let charName = document.createElement('a');
                 charName.setAttribute('id', `${charURL}`);
-                charName.setAttribute('data-toggle', 'modal');
-                charName.setAttribute('data-target', '#exampleModal');
                 charName.textContent = `${charData.result.properties.name}`;
                 characterElement.appendChild(charName);
             }
